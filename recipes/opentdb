@@ -1,0 +1,1 @@
+(opentdb :repo "fooki/opentdb-emacs" :fetcher github)
